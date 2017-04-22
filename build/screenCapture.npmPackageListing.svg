@@ -1,0 +1,1280 @@
+<svg height="20430" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="20430" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-22 13:15:46 +0000  1158566 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-22 13:15:46 +0000      952 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-22 13:15:46 +0000     1597 bytes  Gruntfile.coffee</tspan>
+<tspan x="10" y="74">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="90">  3.  2017-04-22 13:15:46 +0000    10693 bytes  generators/app/index.js</tspan>
+<tspan x="10" y="106">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="122">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="138">  4.  2017-04-22 13:15:46 +0000    10693 bytes  generators/app/templates/bootstrap/_(bower).bowe\</tspan>
+<tspan x="10" y="154">rrc</tspan>
+<tspan x="10" y="170">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="186">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="202">  5.  2017-04-22 13:15:46 +0000    10693 bytes  generators/app/templates/bootstrap/_bower(bower)\</tspan>
+<tspan x="10" y="218">.json</tspan>
+<tspan x="10" y="234">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="250">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="266">  6.  2017-04-22 13:15:46 +0000    10693 bytes  generators/app/templates/bootstrap/client/about/\</tspan>
+<tspan x="10" y="282">about(css).css</tspan>
+<tspan x="10" y="298">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="314">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="330">  7.  2017-04-22 13:15:46 +0000    10693 bytes  generators/app/templates/bootstrap/client/about/\</tspan>
+<tspan x="10" y="346">about(less).less</tspan>
+<tspan x="10" y="362">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="378">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="394">  8.  2017-04-22 13:15:46 +0000    10693 bytes  generators/app/templates/bootstrap/client/about/\</tspan>
+<tspan x="10" y="410">about(scss).scss</tspan>
+<tspan x="10" y="426">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="442">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="458">  9.  2017-04-22 13:15:46 +0000    10693 bytes  generators/app/templates/bootstrap/client/about/\</tspan>
+<tspan x="10" y="474">about(stylus).styl</tspan>
+<tspan x="10" y="490">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="506">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="522"> 10.  2017-04-22 13:15:46 +0000    10693 bytes  generators/app/templates/bootstrap/client/about/\</tspan>
+<tspan x="10" y="538">about.controller(coffee).ng.coffee</tspan>
+<tspan x="10" y="554">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="570">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="586"> 11.  2017-04-22 13:15:46 +0000    10693 bytes  generators/app/templates/bootstrap/client/about/\</tspan>
+<tspan x="10" y="602">about.controller(js).ng.js</tspan>
+<tspan x="10" y="618">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="634">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="650"> 12.  2017-04-22 13:15:46 +0000    10693 bytes  generators/app/templates/bootstrap/client/about/\</tspan>
+<tspan x="10" y="666">about.routes(coffee).ng.coffee</tspan>
+<tspan x="10" y="682">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="698">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="714"> 13.  2017-04-22 13:15:46 +0000    10693 bytes  generators/app/templates/bootstrap/client/about/\</tspan>
+<tspan x="10" y="730">about.routes(js).ng.js</tspan>
+<tspan x="10" y="746">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="762">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="778"> 14.  2017-04-22 13:15:46 +0000    10693 bytes  generators/app/templates/bootstrap/client/about/\</tspan>
+<tspan x="10" y="794">about.view(html).ng.html</tspan>
+<tspan x="10" y="810">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="826">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="842"> 15.  2017-04-22 13:15:46 +0000    10693 bytes  generators/app/templates/bootstrap/client/about/\</tspan>
+<tspan x="10" y="858">about.view(jade).ng.jade</tspan>
+<tspan x="10" y="874">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="890">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="906"> 16.  2017-04-22 13:15:46 +0000    10693 bytes  generators/app/templates/bootstrap/client/compon\</tspan>
+<tspan x="10" y="922">ents/toolbar/toolbar(css).css</tspan>
+<tspan x="10" y="938">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="954">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="970"> 17.  2017-04-22 13:15:46 +0000    10693 bytes  generators/app/templates/bootstrap/client/compon\</tspan>
+<tspan x="10" y="986">ents/toolbar/toolbar(less).less</tspan>
+<tspan x="10" y="1002">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="1018">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="1034"> 18.  2017-04-22 13:15:46 +0000    10693 bytes  generators/app/templates/bootstrap/client/compon\</tspan>
+<tspan x="10" y="1050">ents/toolbar/toolbar(scss).scss</tspan>
+<tspan x="10" y="1066">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="1082">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="1098"> 19.  2017-04-22 13:15:46 +0000    10693 bytes  generators/app/templates/bootstrap/client/compon\</tspan>
+<tspan x="10" y="1114">ents/toolbar/toolbar(stylus).styl</tspan>
+<tspan x="10" y="1130">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="1146">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="1162"> 20.  2017-04-22 13:15:46 +0000    10693 bytes  generators/app/templates/bootstrap/client/compon\</tspan>
+<tspan x="10" y="1178">ents/toolbar/toolbar.directive(coffee).ng.coffee</tspan>
+<tspan x="10" y="1194">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="1210">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="1226"> 21.  2017-04-22 13:15:46 +0000    10693 bytes  generators/app/templates/bootstrap/client/compon\</tspan>
+<tspan x="10" y="1242">ents/toolbar/toolbar.directive(js).ng.js</tspan>
+<tspan x="10" y="1258">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="1274">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="1290"> 22.  2017-04-22 13:15:46 +0000    10693 bytes  generators/app/templates/bootstrap/client/compon\</tspan>
+<tspan x="10" y="1306">ents/toolbar/toolbar.view(html).ng.html</tspan>
+<tspan x="10" y="1322">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="1338"> 23.  2017-04-22 13:15:46 +0000    10693 bytes  generators/app/templates/bootstrap/client/compon\</tspan>
+<tspan x="10" y="1354">ents/toolbar/toolbar.view(jade).ng.jade</tspan>
+<tspan x="10" y="1370">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="1386"> 24.  2017-04-22 13:15:46 +0000      172 bytes  generators/app/templates/bootstrap/client/index.\</tspan>
+<tspan x="10" y="1402">html</tspan>
+<tspan x="10" y="1418">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="1434">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="1450"> 25.  2017-04-22 13:15:46 +0000      172 bytes  generators/app/templates/bootstrap/client/lib/ap\</tspan>
+<tspan x="10" y="1466">p(coffee).ng.coffee</tspan>
+<tspan x="10" y="1482">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="1498">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="1514"> 26.  2017-04-22 13:15:46 +0000      172 bytes  generators/app/templates/bootstrap/client/lib/ap\</tspan>
+<tspan x="10" y="1530">p(js).ng.js</tspan>
+<tspan x="10" y="1546">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="1562">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="1578"> 27.  2017-04-22 13:15:46 +0000      172 bytes  generators/app/templates/bootstrap/client/main/m\</tspan>
+<tspan x="10" y="1594">ain(css).css</tspan>
+<tspan x="10" y="1610">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="1626">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="1642"> 28.  2017-04-22 13:15:46 +0000      172 bytes  generators/app/templates/bootstrap/client/main/m\</tspan>
+<tspan x="10" y="1658">ain(less).less</tspan>
+<tspan x="10" y="1674">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="1690">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="1706"> 29.  2017-04-22 13:15:46 +0000      172 bytes  generators/app/templates/bootstrap/client/main/m\</tspan>
+<tspan x="10" y="1722">ain(scss).scss</tspan>
+<tspan x="10" y="1738">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="1754">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="1770"> 30.  2017-04-22 13:15:46 +0000      172 bytes  generators/app/templates/bootstrap/client/main/m\</tspan>
+<tspan x="10" y="1786">ain(stylus).styl</tspan>
+<tspan x="10" y="1802">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="1818">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="1834"> 31.  2017-04-22 13:15:46 +0000      172 bytes  generators/app/templates/bootstrap/client/main/m\</tspan>
+<tspan x="10" y="1850">ain.controller(coffee).ng.coffee</tspan>
+<tspan x="10" y="1866">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="1882">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="1898"> 32.  2017-04-22 13:15:46 +0000      172 bytes  generators/app/templates/bootstrap/client/main/m\</tspan>
+<tspan x="10" y="1914">ain.controller(js).ng.js</tspan>
+<tspan x="10" y="1930">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="1946">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="1962"> 33.  2017-04-22 13:15:46 +0000      172 bytes  generators/app/templates/bootstrap/client/main/m\</tspan>
+<tspan x="10" y="1978">ain.routes(coffee).ng.coffee</tspan>
+<tspan x="10" y="1994">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="2010">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="2026"> 34.  2017-04-22 13:15:46 +0000      172 bytes  generators/app/templates/bootstrap/client/main/m\</tspan>
+<tspan x="10" y="2042">ain.routes(js).ng.js</tspan>
+<tspan x="10" y="2058">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="2074">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="2090"> 35.  2017-04-22 13:15:46 +0000      172 bytes  generators/app/templates/bootstrap/client/main/m\</tspan>
+<tspan x="10" y="2106">ain.view(html).ng.html</tspan>
+<tspan x="10" y="2122">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="2138">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="2154"> 36.  2017-04-22 13:15:46 +0000      172 bytes  generators/app/templates/bootstrap/client/main/m\</tspan>
+<tspan x="10" y="2170">ain.view(jade).ng.jade</tspan>
+<tspan x="10" y="2186">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="2202">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="2218"> 37.  2017-04-22 13:15:46 +0000      172 bytes  generators/app/templates/bootstrap/client/routes\</tspan>
+<tspan x="10" y="2234">-base(coffee).ng.coffee</tspan>
+<tspan x="10" y="2250">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="2266">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="2282"> 38.  2017-04-22 13:15:46 +0000      172 bytes  generators/app/templates/bootstrap/client/routes\</tspan>
+<tspan x="10" y="2298">-base(js).ng.js</tspan>
+<tspan x="10" y="2314">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="2330">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="2346"> 39.  2017-04-22 13:15:46 +0000      172 bytes  generators/app/templates/bootstrap/model/things(\</tspan>
+<tspan x="10" y="2362">coffee).coffee</tspan>
+<tspan x="10" y="2378">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="2394"> 40.  2017-04-22 13:15:46 +0000      172 bytes  generators/app/templates/bootstrap/model/things(\</tspan>
+<tspan x="10" y="2410">js).js</tspan>
+<tspan x="10" y="2426">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="2442"> 41.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/bootstrap/public/favico\</tspan>
+<tspan x="10" y="2458">n.ico</tspan>
+<tspan x="10" y="2474">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="2490">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="2506"> 42.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/bootstrap/server/startu\</tspan>
+<tspan x="10" y="2522">p/things.load(coffee).coffee</tspan>
+<tspan x="10" y="2538">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="2554">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="2570"> 43.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/bootstrap/server/startu\</tspan>
+<tspan x="10" y="2586">p/things.load(js).js</tspan>
+<tspan x="10" y="2602">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="2618">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="2634"> 44.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/bootstrap/server/things\</tspan>
+<tspan x="10" y="2650">.publish(coffee).coffee</tspan>
+<tspan x="10" y="2666">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="2682">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="2698"> 45.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/bootstrap/server/things\</tspan>
+<tspan x="10" y="2714">.publish(js).js</tspan>
+<tspan x="10" y="2730">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="2746">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="2762"> 46.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/ionic/_(bower).bowerrc</tspan>
+<tspan x="10" y="2778">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="2794">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="2810"> 47.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/ionic/_bower(bower).jso\</tspan>
+<tspan x="10" y="2826">n</tspan>
+<tspan x="10" y="2842">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="2858">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="2874"> 48.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/ionic/client/about/abou\</tspan>
+<tspan x="10" y="2890">t(css).css</tspan>
+<tspan x="10" y="2906">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="2922">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="2938"> 49.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/ionic/client/about/abou\</tspan>
+<tspan x="10" y="2954">t(less).less</tspan>
+<tspan x="10" y="2970">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="2986">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="3002"> 50.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/ionic/client/about/abou\</tspan>
+<tspan x="10" y="3018">t(scss).scss</tspan>
+<tspan x="10" y="3034">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="3050">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="3066"> 51.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/ionic/client/about/abou\</tspan>
+<tspan x="10" y="3082">t(stylus).styl</tspan>
+<tspan x="10" y="3098">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="3114">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="3130"> 52.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/ionic/client/about/abou\</tspan>
+<tspan x="10" y="3146">t.controller(coffee).ng.coffee</tspan>
+<tspan x="10" y="3162">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="3178">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="3194"> 53.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/ionic/client/about/abou\</tspan>
+<tspan x="10" y="3210">t.controller(js).ng.js</tspan>
+<tspan x="10" y="3226">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="3242">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="3258"> 54.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/ionic/client/about/abou\</tspan>
+<tspan x="10" y="3274">t.routes(coffee).ng.coffee</tspan>
+<tspan x="10" y="3290">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="3306">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="3322"> 55.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/ionic/client/about/abou\</tspan>
+<tspan x="10" y="3338">t.routes(js).ng.js</tspan>
+<tspan x="10" y="3354">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="3370">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="3386"> 56.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/ionic/client/about/abou\</tspan>
+<tspan x="10" y="3402">t.view(html).ng.html</tspan>
+<tspan x="10" y="3418">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="3434">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="3450"> 57.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/ionic/client/about/abou\</tspan>
+<tspan x="10" y="3466">t.view(jade).ng.jade</tspan>
+<tspan x="10" y="3482">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="3498">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="3514"> 58.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/ionic/client/app(css).c\</tspan>
+<tspan x="10" y="3530">ss</tspan>
+<tspan x="10" y="3546">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="3562">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="3578"> 59.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/ionic/client/app(less).\</tspan>
+<tspan x="10" y="3594">less</tspan>
+<tspan x="10" y="3610">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="3626">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="3642"> 60.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/ionic/client/app(scss).\</tspan>
+<tspan x="10" y="3658">scss</tspan>
+<tspan x="10" y="3674">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="3690">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="3706"> 61.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/ionic/client/app(stylus\</tspan>
+<tspan x="10" y="3722">).styl</tspan>
+<tspan x="10" y="3738">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="3754">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="3770"> 62.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/ionic/client/components\</tspan>
+<tspan x="10" y="3786">/nav/nav(css).css</tspan>
+<tspan x="10" y="3802">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="3818">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="3834"> 63.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/ionic/client/components\</tspan>
+<tspan x="10" y="3850">/nav/nav(less).less</tspan>
+<tspan x="10" y="3866">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="3882">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="3898"> 64.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/ionic/client/components\</tspan>
+<tspan x="10" y="3914">/nav/nav(scss).scss</tspan>
+<tspan x="10" y="3930">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="3946">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="3962"> 65.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/ionic/client/components\</tspan>
+<tspan x="10" y="3978">/nav/nav(stylus).styl</tspan>
+<tspan x="10" y="3994">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="4010">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="4026"> 66.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/ionic/client/components\</tspan>
+<tspan x="10" y="4042">/nav/nav.directive(coffee).ng.coffee</tspan>
+<tspan x="10" y="4058">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="4074">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="4090"> 67.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/ionic/client/components\</tspan>
+<tspan x="10" y="4106">/nav/nav.directive(js).ng.js</tspan>
+<tspan x="10" y="4122">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="4138">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="4154"> 68.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/ionic/client/components\</tspan>
+<tspan x="10" y="4170">/nav/nav.view(html).ng.html</tspan>
+<tspan x="10" y="4186">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="4202">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="4218"> 69.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/ionic/client/components\</tspan>
+<tspan x="10" y="4234">/nav/nav.view(jade).ng.jade</tspan>
+<tspan x="10" y="4250">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="4266">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="4282"> 70.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/ionic/client/components\</tspan>
+<tspan x="10" y="4298">/toolbar/toolbar(css).css</tspan>
+<tspan x="10" y="4314">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="4330">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="4346"> 71.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/ionic/client/components\</tspan>
+<tspan x="10" y="4362">/toolbar/toolbar(less).less</tspan>
+<tspan x="10" y="4378">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="4394">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="4410"> 72.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/ionic/client/components\</tspan>
+<tspan x="10" y="4426">/toolbar/toolbar(scss).scss</tspan>
+<tspan x="10" y="4442">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="4458">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="4474"> 73.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/ionic/client/components\</tspan>
+<tspan x="10" y="4490">/toolbar/toolbar(stylus).styl</tspan>
+<tspan x="10" y="4506">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="4522">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="4538"> 74.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/ionic/client/components\</tspan>
+<tspan x="10" y="4554">/toolbar/toolbar.directive(coffee).ng.coffee</tspan>
+<tspan x="10" y="4570">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="4586">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="4602"> 75.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/ionic/client/components\</tspan>
+<tspan x="10" y="4618">/toolbar/toolbar.directive(js).ng.js</tspan>
+<tspan x="10" y="4634">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="4650">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="4666"> 76.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/ionic/client/components\</tspan>
+<tspan x="10" y="4682">/toolbar/toolbar.view(html).ng.html</tspan>
+<tspan x="10" y="4698">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="4714"> 77.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/ionic/client/components\</tspan>
+<tspan x="10" y="4730">/toolbar/toolbar.view(jade).ng.jade</tspan>
+<tspan x="10" y="4746">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="4762"> 78.  2017-04-22 13:15:46 +0000      224 bytes  generators/app/templates/ionic/client/index.html</tspan>
+<tspan x="10" y="4778">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="4794">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="4810"> 79.  2017-04-22 13:15:46 +0000      224 bytes  generators/app/templates/ionic/client/lib/app(co\</tspan>
+<tspan x="10" y="4826">ffee).ng.coffee</tspan>
+<tspan x="10" y="4842">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="4858">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="4874"> 80.  2017-04-22 13:15:46 +0000      224 bytes  generators/app/templates/ionic/client/lib/app(js\</tspan>
+<tspan x="10" y="4890">).ng.js</tspan>
+<tspan x="10" y="4906">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="4922">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="4938"> 81.  2017-04-22 13:15:46 +0000      224 bytes  generators/app/templates/ionic/client/main/main(\</tspan>
+<tspan x="10" y="4954">css).css</tspan>
+<tspan x="10" y="4970">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="4986">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="5002"> 82.  2017-04-22 13:15:46 +0000      224 bytes  generators/app/templates/ionic/client/main/main(\</tspan>
+<tspan x="10" y="5018">less).less</tspan>
+<tspan x="10" y="5034">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="5050">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="5066"> 83.  2017-04-22 13:15:46 +0000      224 bytes  generators/app/templates/ionic/client/main/main(\</tspan>
+<tspan x="10" y="5082">scss).scss</tspan>
+<tspan x="10" y="5098">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="5114">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="5130"> 84.  2017-04-22 13:15:46 +0000      224 bytes  generators/app/templates/ionic/client/main/main(\</tspan>
+<tspan x="10" y="5146">stylus).styl</tspan>
+<tspan x="10" y="5162">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="5178">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="5194"> 85.  2017-04-22 13:15:46 +0000      224 bytes  generators/app/templates/ionic/client/main/main.\</tspan>
+<tspan x="10" y="5210">controller(coffee).ng.coffee</tspan>
+<tspan x="10" y="5226">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="5242">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="5258"> 86.  2017-04-22 13:15:46 +0000      224 bytes  generators/app/templates/ionic/client/main/main.\</tspan>
+<tspan x="10" y="5274">controller(js).ng.js</tspan>
+<tspan x="10" y="5290">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="5306">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="5322"> 87.  2017-04-22 13:15:46 +0000      224 bytes  generators/app/templates/ionic/client/main/main.\</tspan>
+<tspan x="10" y="5338">routes(coffee).ng.coffee</tspan>
+<tspan x="10" y="5354">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="5370">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="5386"> 88.  2017-04-22 13:15:46 +0000      224 bytes  generators/app/templates/ionic/client/main/main.\</tspan>
+<tspan x="10" y="5402">routes(js).ng.js</tspan>
+<tspan x="10" y="5418">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="5434">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="5450"> 89.  2017-04-22 13:15:46 +0000      224 bytes  generators/app/templates/ionic/client/main/main.\</tspan>
+<tspan x="10" y="5466">view(html).ng.html</tspan>
+<tspan x="10" y="5482">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="5498">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="5514"> 90.  2017-04-22 13:15:46 +0000      224 bytes  generators/app/templates/ionic/client/main/main.\</tspan>
+<tspan x="10" y="5530">view(jade).ng.jade</tspan>
+<tspan x="10" y="5546">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="5562">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="5578"> 91.  2017-04-22 13:15:46 +0000      224 bytes  generators/app/templates/ionic/client/routes-bas\</tspan>
+<tspan x="10" y="5594">e(coffee).ng.coffee</tspan>
+<tspan x="10" y="5610">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="5626">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="5642"> 92.  2017-04-22 13:15:46 +0000      224 bytes  generators/app/templates/ionic/client/routes-bas\</tspan>
+<tspan x="10" y="5658">e(js).ng.js</tspan>
+<tspan x="10" y="5674">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="5690">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="5706"> 93.  2017-04-22 13:15:46 +0000      224 bytes  generators/app/templates/ionic/model/things(coff\</tspan>
+<tspan x="10" y="5722">ee).coffee</tspan>
+<tspan x="10" y="5738">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="5754"> 94.  2017-04-22 13:15:46 +0000      224 bytes  generators/app/templates/ionic/model/things(js).\</tspan>
+<tspan x="10" y="5770">js</tspan>
+<tspan x="10" y="5786">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="5802"> 95.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/ionic/public/favicon.ic\</tspan>
+<tspan x="10" y="5818">o</tspan>
+<tspan x="10" y="5834">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="5850">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="5866"> 96.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/ionic/server/startup/th\</tspan>
+<tspan x="10" y="5882">ings.load(coffee).coffee</tspan>
+<tspan x="10" y="5898">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="5914">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="5930"> 97.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/ionic/server/startup/th\</tspan>
+<tspan x="10" y="5946">ings.load(js).js</tspan>
+<tspan x="10" y="5962">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="5978">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="5994"> 98.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/ionic/server/things.pub\</tspan>
+<tspan x="10" y="6010">lish(coffee).coffee</tspan>
+<tspan x="10" y="6026">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="6042">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="6058"> 99.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/ionic/server/things.pub\</tspan>
+<tspan x="10" y="6074">lish(js).js</tspan>
+<tspan x="10" y="6090">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="6106">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="6122">100.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/material/_(bower).bower\</tspan>
+<tspan x="10" y="6138">rc</tspan>
+<tspan x="10" y="6154">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="6170">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="6186">101.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/material/_bower(bower).\</tspan>
+<tspan x="10" y="6202">json</tspan>
+<tspan x="10" y="6218">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="6234">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="6250">102.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/material/client/about/a\</tspan>
+<tspan x="10" y="6266">bout(css).css</tspan>
+<tspan x="10" y="6282">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="6298">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="6314">103.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/material/client/about/a\</tspan>
+<tspan x="10" y="6330">bout(less).less</tspan>
+<tspan x="10" y="6346">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="6362">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="6378">104.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/material/client/about/a\</tspan>
+<tspan x="10" y="6394">bout(scss).scss</tspan>
+<tspan x="10" y="6410">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="6426">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="6442">105.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/material/client/about/a\</tspan>
+<tspan x="10" y="6458">bout(stylus).styl</tspan>
+<tspan x="10" y="6474">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="6490">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="6506">106.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/material/client/about/a\</tspan>
+<tspan x="10" y="6522">bout.controller(coffee).ng.coffee</tspan>
+<tspan x="10" y="6538">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="6554">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="6570">107.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/material/client/about/a\</tspan>
+<tspan x="10" y="6586">bout.controller(js).ng.js</tspan>
+<tspan x="10" y="6602">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="6618">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="6634">108.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/material/client/about/a\</tspan>
+<tspan x="10" y="6650">bout.routes(coffee).ng.coffee</tspan>
+<tspan x="10" y="6666">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="6682">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="6698">109.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/material/client/about/a\</tspan>
+<tspan x="10" y="6714">bout.routes(js).ng.js</tspan>
+<tspan x="10" y="6730">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="6746">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="6762">110.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/material/client/about/a\</tspan>
+<tspan x="10" y="6778">bout.view(html).ng.html</tspan>
+<tspan x="10" y="6794">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="6810">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="6826">111.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/material/client/about/a\</tspan>
+<tspan x="10" y="6842">bout.view(jade).ng.jade</tspan>
+<tspan x="10" y="6858">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="6874">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="6890">112.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/material/client/app(css\</tspan>
+<tspan x="10" y="6906">).css</tspan>
+<tspan x="10" y="6922">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="6938">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="6954">113.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/material/client/app(les\</tspan>
+<tspan x="10" y="6970">s).less</tspan>
+<tspan x="10" y="6986">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="7002">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="7018">114.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/material/client/app(scs\</tspan>
+<tspan x="10" y="7034">s).scss</tspan>
+<tspan x="10" y="7050">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="7066">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="7082">115.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/material/client/app(sty\</tspan>
+<tspan x="10" y="7098">lus).styl</tspan>
+<tspan x="10" y="7114">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="7130">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="7146">116.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/material/client/compone\</tspan>
+<tspan x="10" y="7162">nts/toolbar/toolbar(css).css</tspan>
+<tspan x="10" y="7178">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="7194">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="7210">117.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/material/client/compone\</tspan>
+<tspan x="10" y="7226">nts/toolbar/toolbar(less).less</tspan>
+<tspan x="10" y="7242">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="7258">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="7274">118.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/material/client/compone\</tspan>
+<tspan x="10" y="7290">nts/toolbar/toolbar(scss).scss</tspan>
+<tspan x="10" y="7306">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="7322">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="7338">119.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/material/client/compone\</tspan>
+<tspan x="10" y="7354">nts/toolbar/toolbar(stylus).styl</tspan>
+<tspan x="10" y="7370">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="7386">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="7402">120.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/material/client/compone\</tspan>
+<tspan x="10" y="7418">nts/toolbar/toolbar.directive(coffee).ng.coffee</tspan>
+<tspan x="10" y="7434">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="7450">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="7466">121.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/material/client/compone\</tspan>
+<tspan x="10" y="7482">nts/toolbar/toolbar.directive(js).ng.js</tspan>
+<tspan x="10" y="7498">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="7514">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="7530">122.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/material/client/compone\</tspan>
+<tspan x="10" y="7546">nts/toolbar/toolbar.view(html).ng.html</tspan>
+<tspan x="10" y="7562">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="7578">123.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/material/client/compone\</tspan>
+<tspan x="10" y="7594">nts/toolbar/toolbar.view(jade).ng.jade</tspan>
+<tspan x="10" y="7610">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="7626">124.  2017-04-22 13:15:46 +0000      210 bytes  generators/app/templates/material/client/index.h\</tspan>
+<tspan x="10" y="7642">tml</tspan>
+<tspan x="10" y="7658">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="7674">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="7690">125.  2017-04-22 13:15:46 +0000      210 bytes  generators/app/templates/material/client/lib/app\</tspan>
+<tspan x="10" y="7706">(coffee).ng.coffee</tspan>
+<tspan x="10" y="7722">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="7738">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="7754">126.  2017-04-22 13:15:46 +0000      210 bytes  generators/app/templates/material/client/lib/app\</tspan>
+<tspan x="10" y="7770">(js).ng.js</tspan>
+<tspan x="10" y="7786">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="7802">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="7818">127.  2017-04-22 13:15:46 +0000      210 bytes  generators/app/templates/material/client/main/ma\</tspan>
+<tspan x="10" y="7834">in(css).css</tspan>
+<tspan x="10" y="7850">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="7866">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="7882">128.  2017-04-22 13:15:46 +0000      210 bytes  generators/app/templates/material/client/main/ma\</tspan>
+<tspan x="10" y="7898">in(less).less</tspan>
+<tspan x="10" y="7914">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="7930">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="7946">129.  2017-04-22 13:15:46 +0000      210 bytes  generators/app/templates/material/client/main/ma\</tspan>
+<tspan x="10" y="7962">in(scss).scss</tspan>
+<tspan x="10" y="7978">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="7994">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="8010">130.  2017-04-22 13:15:46 +0000      210 bytes  generators/app/templates/material/client/main/ma\</tspan>
+<tspan x="10" y="8026">in(stylus).styl</tspan>
+<tspan x="10" y="8042">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="8058">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="8074">131.  2017-04-22 13:15:46 +0000      210 bytes  generators/app/templates/material/client/main/ma\</tspan>
+<tspan x="10" y="8090">in.controller(coffee).ng.coffee</tspan>
+<tspan x="10" y="8106">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="8122">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="8138">132.  2017-04-22 13:15:46 +0000      210 bytes  generators/app/templates/material/client/main/ma\</tspan>
+<tspan x="10" y="8154">in.controller(js).ng.js</tspan>
+<tspan x="10" y="8170">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="8186">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="8202">133.  2017-04-22 13:15:46 +0000      210 bytes  generators/app/templates/material/client/main/ma\</tspan>
+<tspan x="10" y="8218">in.routes(coffee).ng.coffee</tspan>
+<tspan x="10" y="8234">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="8250">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="8266">134.  2017-04-22 13:15:46 +0000      210 bytes  generators/app/templates/material/client/main/ma\</tspan>
+<tspan x="10" y="8282">in.routes(js).ng.js</tspan>
+<tspan x="10" y="8298">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="8314">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="8330">135.  2017-04-22 13:15:46 +0000      210 bytes  generators/app/templates/material/client/main/ma\</tspan>
+<tspan x="10" y="8346">in.view(html).ng.html</tspan>
+<tspan x="10" y="8362">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="8378">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="8394">136.  2017-04-22 13:15:46 +0000      210 bytes  generators/app/templates/material/client/main/ma\</tspan>
+<tspan x="10" y="8410">in.view(jade).ng.jade</tspan>
+<tspan x="10" y="8426">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="8442">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="8458">137.  2017-04-22 13:15:46 +0000      210 bytes  generators/app/templates/material/client/routes-\</tspan>
+<tspan x="10" y="8474">base(coffee).ng.coffee</tspan>
+<tspan x="10" y="8490">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="8506">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="8522">138.  2017-04-22 13:15:46 +0000      210 bytes  generators/app/templates/material/client/routes-\</tspan>
+<tspan x="10" y="8538">base(js).ng.js</tspan>
+<tspan x="10" y="8554">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="8570">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="8586">139.  2017-04-22 13:15:46 +0000      210 bytes  generators/app/templates/material/client/theme(c\</tspan>
+<tspan x="10" y="8602">offee).ng.coffee</tspan>
+<tspan x="10" y="8618">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="8634">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="8650">140.  2017-04-22 13:15:46 +0000      210 bytes  generators/app/templates/material/client/theme(j\</tspan>
+<tspan x="10" y="8666">s).ng.js</tspan>
+<tspan x="10" y="8682">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="8698">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="8714">141.  2017-04-22 13:15:46 +0000      210 bytes  generators/app/templates/material/model/things(c\</tspan>
+<tspan x="10" y="8730">offee).coffee</tspan>
+<tspan x="10" y="8746">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="8762">142.  2017-04-22 13:15:46 +0000      210 bytes  generators/app/templates/material/model/things(j\</tspan>
+<tspan x="10" y="8778">s).js</tspan>
+<tspan x="10" y="8794">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="8810">143.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/material/public/favicon\</tspan>
+<tspan x="10" y="8826">.ico</tspan>
+<tspan x="10" y="8842">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="8858">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="8874">144.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/material/server/startup\</tspan>
+<tspan x="10" y="8890">/things.load(coffee).coffee</tspan>
+<tspan x="10" y="8906">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="8922">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="8938">145.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/material/server/startup\</tspan>
+<tspan x="10" y="8954">/things.load(js).js</tspan>
+<tspan x="10" y="8970">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="8986">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="9002">146.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/material/server/things.\</tspan>
+<tspan x="10" y="9018">publish(coffee).coffee</tspan>
+<tspan x="10" y="9034">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="9050">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="9066">147.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/material/server/things.\</tspan>
+<tspan x="10" y="9082">publish(js).js</tspan>
+<tspan x="10" y="9098">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="9114">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="9130">148.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/none/_(bower).bowerrc</tspan>
+<tspan x="10" y="9146">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="9162">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="9178">149.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/none/_bower(bower).json</tspan>
+<tspan x="10" y="9194">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="9210">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="9226">150.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/none/client/about/about\</tspan>
+<tspan x="10" y="9242">(css).css</tspan>
+<tspan x="10" y="9258">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="9274">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="9290">151.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/none/client/about/about\</tspan>
+<tspan x="10" y="9306">(less).less</tspan>
+<tspan x="10" y="9322">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="9338">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="9354">152.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/none/client/about/about\</tspan>
+<tspan x="10" y="9370">(scss).scss</tspan>
+<tspan x="10" y="9386">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="9402">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="9418">153.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/none/client/about/about\</tspan>
+<tspan x="10" y="9434">(stylus).styl</tspan>
+<tspan x="10" y="9450">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="9466">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="9482">154.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/none/client/about/about\</tspan>
+<tspan x="10" y="9498">.controller(coffee).ng.coffee</tspan>
+<tspan x="10" y="9514">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="9530">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="9546">155.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/none/client/about/about\</tspan>
+<tspan x="10" y="9562">.controller(js).ng.js</tspan>
+<tspan x="10" y="9578">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="9594">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="9610">156.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/none/client/about/about\</tspan>
+<tspan x="10" y="9626">.routes(coffee).ng.coffee</tspan>
+<tspan x="10" y="9642">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="9658">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="9674">157.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/none/client/about/about\</tspan>
+<tspan x="10" y="9690">.routes(js).ng.js</tspan>
+<tspan x="10" y="9706">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="9722">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="9738">158.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/none/client/about/about\</tspan>
+<tspan x="10" y="9754">.view(html).ng.html</tspan>
+<tspan x="10" y="9770">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="9786">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="9802">159.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/none/client/about/about\</tspan>
+<tspan x="10" y="9818">.view(jade).ng.jade</tspan>
+<tspan x="10" y="9834">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="9850">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="9866">160.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/none/client/app(css).cs\</tspan>
+<tspan x="10" y="9882">s</tspan>
+<tspan x="10" y="9898">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="9914">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="9930">161.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/none/client/app(less).l\</tspan>
+<tspan x="10" y="9946">ess</tspan>
+<tspan x="10" y="9962">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="9978">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="9994">162.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/none/client/app(scss).s\</tspan>
+<tspan x="10" y="10010">css</tspan>
+<tspan x="10" y="10026">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="10042">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="10058">163.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/none/client/app(stylus)\</tspan>
+<tspan x="10" y="10074">.styl</tspan>
+<tspan x="10" y="10090">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="10106">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="10122">164.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/none/client/components/\</tspan>
+<tspan x="10" y="10138">toolbar/toolbar(css).css</tspan>
+<tspan x="10" y="10154">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="10170">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="10186">165.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/none/client/components/\</tspan>
+<tspan x="10" y="10202">toolbar/toolbar(less).less</tspan>
+<tspan x="10" y="10218">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="10234">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="10250">166.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/none/client/components/\</tspan>
+<tspan x="10" y="10266">toolbar/toolbar(scss).scss</tspan>
+<tspan x="10" y="10282">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="10298">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="10314">167.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/none/client/components/\</tspan>
+<tspan x="10" y="10330">toolbar/toolbar(stylus).styl</tspan>
+<tspan x="10" y="10346">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="10362">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="10378">168.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/none/client/components/\</tspan>
+<tspan x="10" y="10394">toolbar/toolbar.directive(coffee).ng.coffee</tspan>
+<tspan x="10" y="10410">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="10426">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="10442">169.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/none/client/components/\</tspan>
+<tspan x="10" y="10458">toolbar/toolbar.directive(js).ng.js</tspan>
+<tspan x="10" y="10474">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="10490">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="10506">170.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/none/client/components/\</tspan>
+<tspan x="10" y="10522">toolbar/toolbar.view(html).ng.html</tspan>
+<tspan x="10" y="10538">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="10554">171.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/none/client/components/\</tspan>
+<tspan x="10" y="10570">toolbar/toolbar.view(jade).ng.jade</tspan>
+<tspan x="10" y="10586">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="10602">172.  2017-04-22 13:15:46 +0000      172 bytes  generators/app/templates/none/client/index.html</tspan>
+<tspan x="10" y="10618">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="10634">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="10650">173.  2017-04-22 13:15:46 +0000      172 bytes  generators/app/templates/none/client/lib/app(cof\</tspan>
+<tspan x="10" y="10666">fee).ng.coffee</tspan>
+<tspan x="10" y="10682">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="10698">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="10714">174.  2017-04-22 13:15:46 +0000      172 bytes  generators/app/templates/none/client/lib/app(js)\</tspan>
+<tspan x="10" y="10730">.ng.js</tspan>
+<tspan x="10" y="10746">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="10762">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="10778">175.  2017-04-22 13:15:46 +0000      172 bytes  generators/app/templates/none/client/main/main(c\</tspan>
+<tspan x="10" y="10794">ss).css</tspan>
+<tspan x="10" y="10810">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="10826">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="10842">176.  2017-04-22 13:15:46 +0000      172 bytes  generators/app/templates/none/client/main/main(l\</tspan>
+<tspan x="10" y="10858">ess).less</tspan>
+<tspan x="10" y="10874">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="10890">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="10906">177.  2017-04-22 13:15:46 +0000      172 bytes  generators/app/templates/none/client/main/main(s\</tspan>
+<tspan x="10" y="10922">css).scss</tspan>
+<tspan x="10" y="10938">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="10954">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="10970">178.  2017-04-22 13:15:46 +0000      172 bytes  generators/app/templates/none/client/main/main(s\</tspan>
+<tspan x="10" y="10986">tylus).styl</tspan>
+<tspan x="10" y="11002">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="11018">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="11034">179.  2017-04-22 13:15:46 +0000      172 bytes  generators/app/templates/none/client/main/main.c\</tspan>
+<tspan x="10" y="11050">ontroller(coffee).ng.coffee</tspan>
+<tspan x="10" y="11066">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="11082">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="11098">180.  2017-04-22 13:15:46 +0000      172 bytes  generators/app/templates/none/client/main/main.c\</tspan>
+<tspan x="10" y="11114">ontroller(js).ng.js</tspan>
+<tspan x="10" y="11130">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="11146">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="11162">181.  2017-04-22 13:15:46 +0000      172 bytes  generators/app/templates/none/client/main/main.r\</tspan>
+<tspan x="10" y="11178">outes(coffee).ng.coffee</tspan>
+<tspan x="10" y="11194">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="11210">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="11226">182.  2017-04-22 13:15:46 +0000      172 bytes  generators/app/templates/none/client/main/main.r\</tspan>
+<tspan x="10" y="11242">outes(js).ng.js</tspan>
+<tspan x="10" y="11258">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="11274">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="11290">183.  2017-04-22 13:15:46 +0000      172 bytes  generators/app/templates/none/client/main/main.v\</tspan>
+<tspan x="10" y="11306">iew(html).ng.html</tspan>
+<tspan x="10" y="11322">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="11338">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="11354">184.  2017-04-22 13:15:46 +0000      172 bytes  generators/app/templates/none/client/main/main.v\</tspan>
+<tspan x="10" y="11370">iew(jade).ng.jade</tspan>
+<tspan x="10" y="11386">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="11402">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="11418">185.  2017-04-22 13:15:46 +0000      172 bytes  generators/app/templates/none/client/routes-base\</tspan>
+<tspan x="10" y="11434">(coffee).ng.coffee</tspan>
+<tspan x="10" y="11450">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="11466">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="11482">186.  2017-04-22 13:15:46 +0000      172 bytes  generators/app/templates/none/client/routes-base\</tspan>
+<tspan x="10" y="11498">(js).ng.js</tspan>
+<tspan x="10" y="11514">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="11530">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="11546">187.  2017-04-22 13:15:46 +0000      172 bytes  generators/app/templates/none/model/things(coffe\</tspan>
+<tspan x="10" y="11562">e).coffee</tspan>
+<tspan x="10" y="11578">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="11594">188.  2017-04-22 13:15:46 +0000      172 bytes  generators/app/templates/none/model/things(js).j\</tspan>
+<tspan x="10" y="11610">s</tspan>
+<tspan x="10" y="11626">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="11642">189.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/none/public/favicon.ico</tspan>
+<tspan x="10" y="11658">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="11674">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="11690">190.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/none/server/startup/thi\</tspan>
+<tspan x="10" y="11706">ngs.load(coffee).coffee</tspan>
+<tspan x="10" y="11722">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="11738">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="11754">191.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/none/server/startup/thi\</tspan>
+<tspan x="10" y="11770">ngs.load(js).js</tspan>
+<tspan x="10" y="11786">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="11802">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="11818">192.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/none/server/things.publ\</tspan>
+<tspan x="10" y="11834">ish(coffee).coffee</tspan>
+<tspan x="10" y="11850">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="11866">193.  2017-04-22 13:15:46 +0000     4286 bytes  generators/app/templates/none/server/things.publ\</tspan>
+<tspan x="10" y="11882">ish(js).js</tspan>
+<tspan x="10" y="11898">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="11914">194.  2017-04-22 13:15:46 +0000     1822 bytes  generators/controller/index.js</tspan>
+<tspan x="10" y="11930">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="11946">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="11962">195.  2017-04-22 13:15:46 +0000     1822 bytes  generators/controller/templates/compname.control\</tspan>
+<tspan x="10" y="11978">ler(coffee).ng.coffee</tspan>
+<tspan x="10" y="11994">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="12010">196.  2017-04-22 13:15:46 +0000     1822 bytes  generators/controller/templates/compname.control\</tspan>
+<tspan x="10" y="12026">ler(js).ng.js</tspan>
+<tspan x="10" y="12042">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="12058">197.  2017-04-22 13:15:46 +0000     2048 bytes  generators/decorator/index.js</tspan>
+<tspan x="10" y="12074">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="12090">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="12106">198.  2017-04-22 13:15:46 +0000     2048 bytes  generators/decorator/templates/compname.decorato\</tspan>
+<tspan x="10" y="12122">r(coffee).ng.coffee</tspan>
+<tspan x="10" y="12138">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="12154">199.  2017-04-22 13:15:46 +0000     2048 bytes  generators/decorator/templates/compname.decorato\</tspan>
+<tspan x="10" y="12170">r(js).ng.js</tspan>
+<tspan x="10" y="12186">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="12202">200.  2017-04-22 13:15:46 +0000     2142 bytes  generators/directive/index.js</tspan>
+<tspan x="10" y="12218">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="12234">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="12250">201.  2017-04-22 13:15:46 +0000     2142 bytes  generators/directive/templates/complex/compname(\</tspan>
+<tspan x="10" y="12266">css).css</tspan>
+<tspan x="10" y="12282">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="12298">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="12314">202.  2017-04-22 13:15:46 +0000     2142 bytes  generators/directive/templates/complex/compname(\</tspan>
+<tspan x="10" y="12330">html).view.ng.html</tspan>
+<tspan x="10" y="12346">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="12362">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="12378">203.  2017-04-22 13:15:46 +0000     2142 bytes  generators/directive/templates/complex/compname(\</tspan>
+<tspan x="10" y="12394">jade).view.ng.jade</tspan>
+<tspan x="10" y="12410">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="12426">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="12442">204.  2017-04-22 13:15:46 +0000     2142 bytes  generators/directive/templates/complex/compname(\</tspan>
+<tspan x="10" y="12458">stylus).styl</tspan>
+<tspan x="10" y="12474">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="12490">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="12506">205.  2017-04-22 13:15:46 +0000     2142 bytes  generators/directive/templates/complex/compname.\</tspan>
+<tspan x="10" y="12522">directive(coffee).ng.coffee</tspan>
+<tspan x="10" y="12538">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="12554">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="12570">206.  2017-04-22 13:15:46 +0000     2142 bytes  generators/directive/templates/complex/compname.\</tspan>
+<tspan x="10" y="12586">directive(js).ng.js</tspan>
+<tspan x="10" y="12602">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="12618">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="12634">207.  2017-04-22 13:15:46 +0000     2142 bytes  generators/directive/templates/simple/compname.d\</tspan>
+<tspan x="10" y="12650">irective(coffee).ng.coffee</tspan>
+<tspan x="10" y="12666">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="12682">208.  2017-04-22 13:15:46 +0000     2142 bytes  generators/directive/templates/simple/compname.d\</tspan>
+<tspan x="10" y="12698">irective(js).ng.js</tspan>
+<tspan x="10" y="12714">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="12730">209.  2017-04-22 13:15:46 +0000     1819 bytes  generators/factory/index.js</tspan>
+<tspan x="10" y="12746">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="12762">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="12778">210.  2017-04-22 13:15:46 +0000     1819 bytes  generators/factory/templates/compname.service(co\</tspan>
+<tspan x="10" y="12794">ffee).ng.coffee</tspan>
+<tspan x="10" y="12810">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="12826">211.  2017-04-22 13:15:46 +0000     1819 bytes  generators/factory/templates/compname.service(js\</tspan>
+<tspan x="10" y="12842">).ng.js</tspan>
+<tspan x="10" y="12858">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="12874">212.  2017-04-22 13:15:46 +0000     1549 bytes  generators/filter/index.js</tspan>
+<tspan x="10" y="12890">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="12906">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="12922">213.  2017-04-22 13:15:46 +0000     1549 bytes  generators/filter/templates/compname.filter(coff\</tspan>
+<tspan x="10" y="12938">ee).ng.coffee</tspan>
+<tspan x="10" y="12954">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="12970">214.  2017-04-22 13:15:46 +0000     1549 bytes  generators/filter/templates/compname.filter(js).\</tspan>
+<tspan x="10" y="12986">ng.js</tspan>
+<tspan x="10" y="13002">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="13018">215.  2017-04-22 13:15:46 +0000     8115 bytes  generators/init/index.js</tspan>
+<tspan x="10" y="13034">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="13050">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="13066">216.  2017-04-22 13:15:46 +0000     8115 bytes  generators/init/templates/_(bower).bowerrc</tspan>
+<tspan x="10" y="13082">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="13098">217.  2017-04-22 13:15:46 +0000     8115 bytes  generators/init/templates/_bower(bower).json</tspan>
+<tspan x="10" y="13114">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="13130">218.  2017-04-22 13:15:46 +0000     1621 bytes  generators/method/index.js</tspan>
+<tspan x="10" y="13146">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="13162">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="13178">219.  2017-04-22 13:15:46 +0000     1621 bytes  generators/method/templates/compname.method(coff\</tspan>
+<tspan x="10" y="13194">ee).coffee</tspan>
+<tspan x="10" y="13210">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="13226">220.  2017-04-22 13:15:46 +0000     1621 bytes  generators/method/templates/compname.method(js).\</tspan>
+<tspan x="10" y="13242">js</tspan>
+<tspan x="10" y="13258">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="13274">221.  2017-04-22 13:15:46 +0000     2240 bytes  generators/model/index.js</tspan>
+<tspan x="10" y="13290">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="13306">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="13322">222.  2017-04-22 13:15:46 +0000     2240 bytes  generators/model/templates/model/compname.model(\</tspan>
+<tspan x="10" y="13338">coffee).coffee</tspan>
+<tspan x="10" y="13354">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="13370">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="13386">223.  2017-04-22 13:15:46 +0000     2240 bytes  generators/model/templates/model/compname.model(\</tspan>
+<tspan x="10" y="13402">js).js</tspan>
+<tspan x="10" y="13418">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="13434">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="13450">224.  2017-04-22 13:15:46 +0000     2240 bytes  generators/model/templates/server/compname.publi\</tspan>
+<tspan x="10" y="13466">sh(coffee).coffee</tspan>
+<tspan x="10" y="13482">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="13498">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="13514">225.  2017-04-22 13:15:46 +0000     2240 bytes  generators/model/templates/server/compname.publi\</tspan>
+<tspan x="10" y="13530">sh(js).js</tspan>
+<tspan x="10" y="13546">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="13562">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="13578">226.  2017-04-22 13:15:46 +0000     2240 bytes  generators/model/templates/server/startup/compna\</tspan>
+<tspan x="10" y="13594">me.load(coffee).coffee</tspan>
+<tspan x="10" y="13610">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="13626">227.  2017-04-22 13:15:46 +0000     2240 bytes  generators/model/templates/server/startup/compna\</tspan>
+<tspan x="10" y="13642">me.load(js).js</tspan>
+<tspan x="10" y="13658">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="13674">228.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/index.js</tspan>
+<tspan x="10" y="13690">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="13706">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="13722">229.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/bootstrap/client/comp\</tspan>
+<tspan x="10" y="13738">lex/compname(css).css</tspan>
+<tspan x="10" y="13754">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="13770">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="13786">230.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/bootstrap/client/comp\</tspan>
+<tspan x="10" y="13802">lex/compname(less).less</tspan>
+<tspan x="10" y="13818">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="13834">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="13850">231.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/bootstrap/client/comp\</tspan>
+<tspan x="10" y="13866">lex/compname(scss).scss</tspan>
+<tspan x="10" y="13882">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="13898">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="13914">232.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/bootstrap/client/comp\</tspan>
+<tspan x="10" y="13930">lex/compname(stylus).styl</tspan>
+<tspan x="10" y="13946">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="13962">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="13978">233.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/bootstrap/client/comp\</tspan>
+<tspan x="10" y="13994">lex/compname-list.controller(coffee).ng.coffee</tspan>
+<tspan x="10" y="14010">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="14026">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="14042">234.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/bootstrap/client/comp\</tspan>
+<tspan x="10" y="14058">lex/compname-list.controller(js).ng.js</tspan>
+<tspan x="10" y="14074">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="14090">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="14106">235.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/bootstrap/client/comp\</tspan>
+<tspan x="10" y="14122">lex/compname-list.view(html).ng.html</tspan>
+<tspan x="10" y="14138">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="14154">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="14170">236.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/bootstrap/client/comp\</tspan>
+<tspan x="10" y="14186">lex/compname-list.view(jade).ng.jade</tspan>
+<tspan x="10" y="14202">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="14218">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="14234">237.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/bootstrap/client/comp\</tspan>
+<tspan x="10" y="14250">lex/compname-singular-detail.controller(coffee).ng.coffee</tspan>
+<tspan x="10" y="14266">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="14282">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="14298">238.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/bootstrap/client/comp\</tspan>
+<tspan x="10" y="14314">lex/compname-singular-detail.controller(js).ng.js</tspan>
+<tspan x="10" y="14330">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="14346">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="14362">239.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/bootstrap/client/comp\</tspan>
+<tspan x="10" y="14378">lex/compname-singular-detail.view(html).ng.html</tspan>
+<tspan x="10" y="14394">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="14410">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="14426">240.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/bootstrap/client/comp\</tspan>
+<tspan x="10" y="14442">lex/compname-singular-detail.view(jade).ng.jade</tspan>
+<tspan x="10" y="14458">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="14474">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="14490">241.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/bootstrap/client/comp\</tspan>
+<tspan x="10" y="14506">lex/compname.routes(coffee).ng.coffee</tspan>
+<tspan x="10" y="14522">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="14538">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="14554">242.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/bootstrap/client/comp\</tspan>
+<tspan x="10" y="14570">lex/compname.routes(js).ng.js</tspan>
+<tspan x="10" y="14586">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="14602">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="14618">243.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/bootstrap/client/simp\</tspan>
+<tspan x="10" y="14634">le/compname(css).css</tspan>
+<tspan x="10" y="14650">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="14666">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="14682">244.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/bootstrap/client/simp\</tspan>
+<tspan x="10" y="14698">le/compname(less).less</tspan>
+<tspan x="10" y="14714">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="14730">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="14746">245.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/bootstrap/client/simp\</tspan>
+<tspan x="10" y="14762">le/compname(scss).scss</tspan>
+<tspan x="10" y="14778">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="14794">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="14810">246.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/bootstrap/client/simp\</tspan>
+<tspan x="10" y="14826">le/compname(stylus).styl</tspan>
+<tspan x="10" y="14842">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="14858">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="14874">247.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/bootstrap/client/simp\</tspan>
+<tspan x="10" y="14890">le/compname.controller(coffee).ng.coffee</tspan>
+<tspan x="10" y="14906">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="14922">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="14938">248.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/bootstrap/client/simp\</tspan>
+<tspan x="10" y="14954">le/compname.controller(js).ng.js</tspan>
+<tspan x="10" y="14970">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="14986">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="15002">249.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/bootstrap/client/simp\</tspan>
+<tspan x="10" y="15018">le/compname.routes(coffee).ng.coffee</tspan>
+<tspan x="10" y="15034">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="15050">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="15066">250.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/bootstrap/client/simp\</tspan>
+<tspan x="10" y="15082">le/compname.routes(js).ng.js</tspan>
+<tspan x="10" y="15098">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="15114">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="15130">251.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/bootstrap/client/simp\</tspan>
+<tspan x="10" y="15146">le/compname.view(html).ng.html</tspan>
+<tspan x="10" y="15162">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="15178">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="15194">252.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/bootstrap/client/simp\</tspan>
+<tspan x="10" y="15210">le/compname.view(jade).ng.jade</tspan>
+<tspan x="10" y="15226">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="15242">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="15258">253.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/ionic/client/complex/\</tspan>
+<tspan x="10" y="15274">compname(css).css</tspan>
+<tspan x="10" y="15290">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="15306">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="15322">254.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/ionic/client/complex/\</tspan>
+<tspan x="10" y="15338">compname(less).less</tspan>
+<tspan x="10" y="15354">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="15370">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="15386">255.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/ionic/client/complex/\</tspan>
+<tspan x="10" y="15402">compname(scss).scss</tspan>
+<tspan x="10" y="15418">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="15434">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="15450">256.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/ionic/client/complex/\</tspan>
+<tspan x="10" y="15466">compname(stylus).styl</tspan>
+<tspan x="10" y="15482">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="15498">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="15514">257.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/ionic/client/complex/\</tspan>
+<tspan x="10" y="15530">compname-list.controller(coffee).ng.coffee</tspan>
+<tspan x="10" y="15546">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="15562">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="15578">258.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/ionic/client/complex/\</tspan>
+<tspan x="10" y="15594">compname-list.controller(js).ng.js</tspan>
+<tspan x="10" y="15610">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="15626">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="15642">259.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/ionic/client/complex/\</tspan>
+<tspan x="10" y="15658">compname-list.view(html).ng.html</tspan>
+<tspan x="10" y="15674">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="15690">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="15706">260.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/ionic/client/complex/\</tspan>
+<tspan x="10" y="15722">compname-list.view(jade).ng.jade</tspan>
+<tspan x="10" y="15738">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="15754">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="15770">261.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/ionic/client/complex/\</tspan>
+<tspan x="10" y="15786">compname-singular-detail.controller(coffee).ng.coffee</tspan>
+<tspan x="10" y="15802">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="15818">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="15834">262.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/ionic/client/complex/\</tspan>
+<tspan x="10" y="15850">compname-singular-detail.controller(js).ng.js</tspan>
+<tspan x="10" y="15866">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="15882">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="15898">263.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/ionic/client/complex/\</tspan>
+<tspan x="10" y="15914">compname-singular-detail.view(html).ng.html</tspan>
+<tspan x="10" y="15930">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="15946">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="15962">264.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/ionic/client/complex/\</tspan>
+<tspan x="10" y="15978">compname-singular-detail.view(jade).ng.jade</tspan>
+<tspan x="10" y="15994">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="16010">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="16026">265.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/ionic/client/complex/\</tspan>
+<tspan x="10" y="16042">compname.routes(coffee).ng.coffee</tspan>
+<tspan x="10" y="16058">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="16074">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="16090">266.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/ionic/client/complex/\</tspan>
+<tspan x="10" y="16106">compname.routes(js).ng.js</tspan>
+<tspan x="10" y="16122">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="16138">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="16154">267.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/ionic/client/simple/c\</tspan>
+<tspan x="10" y="16170">ompname(css).css</tspan>
+<tspan x="10" y="16186">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="16202">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="16218">268.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/ionic/client/simple/c\</tspan>
+<tspan x="10" y="16234">ompname(less).less</tspan>
+<tspan x="10" y="16250">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="16266">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="16282">269.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/ionic/client/simple/c\</tspan>
+<tspan x="10" y="16298">ompname(scss).scss</tspan>
+<tspan x="10" y="16314">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="16330">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="16346">270.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/ionic/client/simple/c\</tspan>
+<tspan x="10" y="16362">ompname(stylus).styl</tspan>
+<tspan x="10" y="16378">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="16394">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="16410">271.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/ionic/client/simple/c\</tspan>
+<tspan x="10" y="16426">ompname.controller(coffee).ng.coffee</tspan>
+<tspan x="10" y="16442">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="16458">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="16474">272.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/ionic/client/simple/c\</tspan>
+<tspan x="10" y="16490">ompname.controller(js).ng.js</tspan>
+<tspan x="10" y="16506">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="16522">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="16538">273.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/ionic/client/simple/c\</tspan>
+<tspan x="10" y="16554">ompname.routes(coffee).ng.coffee</tspan>
+<tspan x="10" y="16570">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="16586">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="16602">274.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/ionic/client/simple/c\</tspan>
+<tspan x="10" y="16618">ompname.routes(js).ng.js</tspan>
+<tspan x="10" y="16634">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="16650">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="16666">275.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/ionic/client/simple/c\</tspan>
+<tspan x="10" y="16682">ompname.view(html).ng.html</tspan>
+<tspan x="10" y="16698">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="16714">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="16730">276.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/ionic/client/simple/c\</tspan>
+<tspan x="10" y="16746">ompname.view(jade).ng.jade</tspan>
+<tspan x="10" y="16762">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="16778">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="16794">277.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/material/client/compl\</tspan>
+<tspan x="10" y="16810">ex/compname(css).css</tspan>
+<tspan x="10" y="16826">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="16842">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="16858">278.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/material/client/compl\</tspan>
+<tspan x="10" y="16874">ex/compname(less).less</tspan>
+<tspan x="10" y="16890">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="16906">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="16922">279.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/material/client/compl\</tspan>
+<tspan x="10" y="16938">ex/compname(scss).scss</tspan>
+<tspan x="10" y="16954">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="16970">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="16986">280.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/material/client/compl\</tspan>
+<tspan x="10" y="17002">ex/compname(stylus).styl</tspan>
+<tspan x="10" y="17018">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="17034">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="17050">281.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/material/client/compl\</tspan>
+<tspan x="10" y="17066">ex/compname-list.controller(coffee).ng.coffee</tspan>
+<tspan x="10" y="17082">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="17098">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="17114">282.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/material/client/compl\</tspan>
+<tspan x="10" y="17130">ex/compname-list.controller(js).ng.js</tspan>
+<tspan x="10" y="17146">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="17162">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="17178">283.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/material/client/compl\</tspan>
+<tspan x="10" y="17194">ex/compname-list.view(html).ng.html</tspan>
+<tspan x="10" y="17210">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="17226">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="17242">284.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/material/client/compl\</tspan>
+<tspan x="10" y="17258">ex/compname-list.view(jade).ng.jade</tspan>
+<tspan x="10" y="17274">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="17290">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="17306">285.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/material/client/compl\</tspan>
+<tspan x="10" y="17322">ex/compname-singular-detail.controller(coffee).ng.coffee</tspan>
+<tspan x="10" y="17338">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="17354">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="17370">286.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/material/client/compl\</tspan>
+<tspan x="10" y="17386">ex/compname-singular-detail.controller(js).ng.js</tspan>
+<tspan x="10" y="17402">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="17418">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="17434">287.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/material/client/compl\</tspan>
+<tspan x="10" y="17450">ex/compname-singular-detail.view(html).ng.html</tspan>
+<tspan x="10" y="17466">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="17482">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="17498">288.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/material/client/compl\</tspan>
+<tspan x="10" y="17514">ex/compname-singular-detail.view(jade).ng.jade</tspan>
+<tspan x="10" y="17530">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="17546">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="17562">289.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/material/client/compl\</tspan>
+<tspan x="10" y="17578">ex/compname.routes(coffee).ng.coffee</tspan>
+<tspan x="10" y="17594">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="17610">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="17626">290.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/material/client/compl\</tspan>
+<tspan x="10" y="17642">ex/compname.routes(js).ng.js</tspan>
+<tspan x="10" y="17658">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="17674">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="17690">291.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/material/client/simpl\</tspan>
+<tspan x="10" y="17706">e/compname(css).css</tspan>
+<tspan x="10" y="17722">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="17738">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="17754">292.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/material/client/simpl\</tspan>
+<tspan x="10" y="17770">e/compname(less).less</tspan>
+<tspan x="10" y="17786">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="17802">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="17818">293.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/material/client/simpl\</tspan>
+<tspan x="10" y="17834">e/compname(scss).scss</tspan>
+<tspan x="10" y="17850">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="17866">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="17882">294.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/material/client/simpl\</tspan>
+<tspan x="10" y="17898">e/compname(stylus).styl</tspan>
+<tspan x="10" y="17914">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="17930">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="17946">295.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/material/client/simpl\</tspan>
+<tspan x="10" y="17962">e/compname.controller(coffee).ng.coffee</tspan>
+<tspan x="10" y="17978">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="17994">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="18010">296.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/material/client/simpl\</tspan>
+<tspan x="10" y="18026">e/compname.controller(js).ng.js</tspan>
+<tspan x="10" y="18042">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="18058">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="18074">297.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/material/client/simpl\</tspan>
+<tspan x="10" y="18090">e/compname.routes(coffee).ng.coffee</tspan>
+<tspan x="10" y="18106">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="18122">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="18138">298.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/material/client/simpl\</tspan>
+<tspan x="10" y="18154">e/compname.routes(js).ng.js</tspan>
+<tspan x="10" y="18170">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="18186">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="18202">299.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/material/client/simpl\</tspan>
+<tspan x="10" y="18218">e/compname.view(html).ng.html</tspan>
+<tspan x="10" y="18234">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="18250">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="18266">300.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/material/client/simpl\</tspan>
+<tspan x="10" y="18282">e/compname.view(jade).ng.jade</tspan>
+<tspan x="10" y="18298">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="18314">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="18330">301.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/none/client/complex/c\</tspan>
+<tspan x="10" y="18346">ompname(css).css</tspan>
+<tspan x="10" y="18362">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="18378">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="18394">302.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/none/client/complex/c\</tspan>
+<tspan x="10" y="18410">ompname(less).less</tspan>
+<tspan x="10" y="18426">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="18442">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="18458">303.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/none/client/complex/c\</tspan>
+<tspan x="10" y="18474">ompname(scss).scss</tspan>
+<tspan x="10" y="18490">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="18506">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="18522">304.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/none/client/complex/c\</tspan>
+<tspan x="10" y="18538">ompname(stylus).styl</tspan>
+<tspan x="10" y="18554">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="18570">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="18586">305.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/none/client/complex/c\</tspan>
+<tspan x="10" y="18602">ompname-list.controller(coffee).ng.coffee</tspan>
+<tspan x="10" y="18618">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="18634">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="18650">306.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/none/client/complex/c\</tspan>
+<tspan x="10" y="18666">ompname-list.controller(js).ng.js</tspan>
+<tspan x="10" y="18682">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="18698">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="18714">307.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/none/client/complex/c\</tspan>
+<tspan x="10" y="18730">ompname-list.view(html).ng.html</tspan>
+<tspan x="10" y="18746">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="18762">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="18778">308.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/none/client/complex/c\</tspan>
+<tspan x="10" y="18794">ompname-list.view(jade).ng.jade</tspan>
+<tspan x="10" y="18810">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="18826">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="18842">309.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/none/client/complex/c\</tspan>
+<tspan x="10" y="18858">ompname-singular-detail.controller(coffee).ng.coffee</tspan>
+<tspan x="10" y="18874">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="18890">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="18906">310.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/none/client/complex/c\</tspan>
+<tspan x="10" y="18922">ompname-singular-detail.controller(js).ng.js</tspan>
+<tspan x="10" y="18938">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="18954">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="18970">311.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/none/client/complex/c\</tspan>
+<tspan x="10" y="18986">ompname-singular-detail.view(html).ng.html</tspan>
+<tspan x="10" y="19002">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="19018">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="19034">312.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/none/client/complex/c\</tspan>
+<tspan x="10" y="19050">ompname-singular-detail.view(jade).ng.jade</tspan>
+<tspan x="10" y="19066">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="19082">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="19098">313.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/none/client/complex/c\</tspan>
+<tspan x="10" y="19114">ompname.routes(coffee).ng.coffee</tspan>
+<tspan x="10" y="19130">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="19146">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="19162">314.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/none/client/complex/c\</tspan>
+<tspan x="10" y="19178">ompname.routes(js).ng.js</tspan>
+<tspan x="10" y="19194">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="19210">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="19226">315.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/none/client/simple/co\</tspan>
+<tspan x="10" y="19242">mpname(css).css</tspan>
+<tspan x="10" y="19258">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="19274">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="19290">316.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/none/client/simple/co\</tspan>
+<tspan x="10" y="19306">mpname(less).less</tspan>
+<tspan x="10" y="19322">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="19338">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="19354">317.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/none/client/simple/co\</tspan>
+<tspan x="10" y="19370">mpname(scss).scss</tspan>
+<tspan x="10" y="19386">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="19402">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="19418">318.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/none/client/simple/co\</tspan>
+<tspan x="10" y="19434">mpname(stylus).styl</tspan>
+<tspan x="10" y="19450">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="19466">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="19482">319.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/none/client/simple/co\</tspan>
+<tspan x="10" y="19498">mpname.controller(coffee).ng.coffee</tspan>
+<tspan x="10" y="19514">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="19530">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="19546">320.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/none/client/simple/co\</tspan>
+<tspan x="10" y="19562">mpname.controller(js).ng.js</tspan>
+<tspan x="10" y="19578">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="19594">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="19610">321.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/none/client/simple/co\</tspan>
+<tspan x="10" y="19626">mpname.routes(coffee).ng.coffee</tspan>
+<tspan x="10" y="19642">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="19658">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="19674">322.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/none/client/simple/co\</tspan>
+<tspan x="10" y="19690">mpname.routes(js).ng.js</tspan>
+<tspan x="10" y="19706">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="19722">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="19738">323.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/none/client/simple/co\</tspan>
+<tspan x="10" y="19754">mpname.view(html).ng.html</tspan>
+<tspan x="10" y="19770">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="19786">324.  2017-04-22 13:15:46 +0000     3553 bytes  generators/route/templates/none/client/simple/co\</tspan>
+<tspan x="10" y="19802">mpname.view(jade).ng.jade</tspan>
+<tspan x="10" y="19818">325.  2017-04-22 13:15:46 +0000     2094 bytes  generators/util.js</tspan>
+<tspan x="10" y="19834">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="19850">326.  2017-04-22 13:15:46 +0000     1806 bytes  generators/view/index.js</tspan>
+<tspan x="10" y="19866">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="19882">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="19898">327.  2017-04-22 13:15:46 +0000     1806 bytes  generators/view/templates/compname(css).css</tspan>
+<tspan x="10" y="19914">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="19930">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="19946">328.  2017-04-22 13:15:46 +0000     1806 bytes  generators/view/templates/compname(html).view.ng\</tspan>
+<tspan x="10" y="19962">.html</tspan>
+<tspan x="10" y="19978">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="19994">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="20010">329.  2017-04-22 13:15:46 +0000     1806 bytes  generators/view/templates/compname(jade).view.ng\</tspan>
+<tspan x="10" y="20026">.jade</tspan>
+<tspan x="10" y="20042">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="20058">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="20074">330.  2017-04-22 13:15:46 +0000     1806 bytes  generators/view/templates/compname(less).less</tspan>
+<tspan x="10" y="20090">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="20106">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="20122">331.  2017-04-22 13:15:46 +0000     1806 bytes  generators/view/templates/compname(scss).scss</tspan>
+<tspan x="10" y="20138">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="20154">332.  2017-04-22 13:15:46 +0000     1806 bytes  generators/view/templates/compname(stylus).styl</tspan>
+<tspan x="10" y="20170">333.  2017-04-22 13:15:46 +0000     1456 bytes  package.json</tspan>
+<tspan x="10" y="20186">334.  2017-04-22 13:15:46 +0000     5272 bytes  readme.md</tspan>
+<tspan x="10" y="20202">335.  2017-04-22 13:15:46 +0000     9038 bytes  src/app/index.coffee</tspan>
+<tspan x="10" y="20218">336.  2017-04-22 13:15:46 +0000     1478 bytes  src/controller/index.coffee</tspan>
+<tspan x="10" y="20234">337.  2017-04-22 13:15:46 +0000     1720 bytes  src/decorator/index.coffee</tspan>
+<tspan x="10" y="20250">338.  2017-04-22 13:15:46 +0000     1814 bytes  src/directive/index.coffee</tspan>
+<tspan x="10" y="20266">339.  2017-04-22 13:15:46 +0000     1475 bytes  src/factory/index.coffee</tspan>
+<tspan x="10" y="20282">340.  2017-04-22 13:15:46 +0000     1239 bytes  src/filter/index.coffee</tspan>
+<tspan x="10" y="20298">341.  2017-04-22 13:15:46 +0000     7067 bytes  src/init/index.coffee</tspan>
+<tspan x="10" y="20314">342.  2017-04-22 13:15:46 +0000     1333 bytes  src/method/index.coffee</tspan>
+<tspan x="10" y="20330">343.  2017-04-22 13:15:46 +0000     1810 bytes  src/model/index.coffee</tspan>
+<tspan x="10" y="20346">344.  2017-04-22 13:15:46 +0000     3007 bytes  src/route/index.coffee</tspan>
+<tspan x="10" y="20362">345.  2017-04-22 13:15:46 +0000     1534 bytes  src/util.coffee</tspan>
+<tspan x="10" y="20378">346.  2017-04-22 13:15:46 +0000     1462 bytes  src/view/index.coffee</tspan>
+<tspan x="10" y="20394">347.  2017-04-22 13:15:46 +0000     1770 bytes  test/main-test.coffee</tspan>
+<tspan x="10" y="20410">348.  2017-04-22 13:15:46 +0000     2486 bytes  test/main-test.js</tspan>
+</text>
+</svg>
