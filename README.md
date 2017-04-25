@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-generator-angular-meteor/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-generator-angular-meteor/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-generator-angular-meteor/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-generator-angular-meteor/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-generator-angular-meteor/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-generator-angular-meteor/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-generator-angular-meteor/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-generator-angular-meteor/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-generator-angular-meteor/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-generator-angular-meteor/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-generator-angular-meteor/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-generator-angular-meteor/build/coverage.html/index.html)
 
@@ -35,40 +35,12 @@
 ```json
 
 {
-    "name": "generator-angular-meteor",
-    "version": "0.21.0",
-    "description": "Yeoman generator for creating AngularJS + Meteor applications",
-    "keywords": [
-        "yeoman-generator",
-        "angularjs",
-        "meteor",
-        "mongodb",
-        "scaffold",
-        "fullstack",
-        "framework",
-        "component",
-        "front-end",
-        "app"
-    ],
-    "homepage": "https://github.com/ndxbxrme/generator-angular-meteor",
-    "bugs": {
-        "url": "https://github.com/ndxbxrme/generator-angular-meteor/issues"
-    },
     "author": {
         "name": "ndxbxrme"
     },
-    "repository": {
-        "type": "git",
-        "url": "git://github.com/ndxbxrme/generator-angular-meteor.git"
+    "bugs": {
+        "url": "https://github.com/ndxbxrme/generator-angular-meteor/issues"
     },
-    "scripts": {
-        "test": "grunt script-test"
-    },
-    "licenses": [
-        {
-            "type": "BSD"
-        }
-    ],
     "dependencies": {
         "cross-spawn": "^0.4.0",
         "glob": "^5.0.6",
@@ -78,6 +50,7 @@
         "underscore.string": "^3.0.3",
         "yeoman-generator": "^0.19.2"
     },
+    "description": "Yeoman generator for creating AngularJS + Meteor applications",
     "devDependencies": {
         "chai": "^2.3.0",
         "coffeelint": "^1.10.1",
@@ -93,6 +66,45 @@
         "load-grunt-tasks": "^3.1.0",
         "mocha": "^2.2.5"
     },
+    "directories": {},
+    "dist": {
+        "shasum": "f81982aa754fda7b83acc6829c86846d410fd0b3",
+        "tarball": "https://registry.npmjs.org/generator-angular-meteor/-/generator-angular-meteor-0.21.0.tgz"
+    },
+    "gitHead": "acd681fa50a36791f53aeba2bb794ef0bd5394a8",
+    "homepage": "https://github.com/ndxbxrme/generator-angular-meteor",
+    "keywords": [
+        "yeoman-generator",
+        "angularjs",
+        "meteor",
+        "mongodb",
+        "scaffold",
+        "fullstack",
+        "framework",
+        "component",
+        "front-end",
+        "app"
+    ],
+    "licenses": [
+        {
+            "type": "BSD"
+        }
+    ],
+    "maintainers": [
+        {
+            "name": "ndxbxrme"
+        }
+    ],
+    "name": "generator-angular-meteor",
+    "optionalDependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/ndxbxrme/generator-angular-meteor.git"
+    },
+    "scripts": {
+        "test": "grunt script-test"
+    },
+    "version": "0.21.0",
     "bin": {}
 }
 ```
